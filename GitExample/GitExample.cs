@@ -10,7 +10,7 @@ namespace GitExample
     {
         public GitExample()
         {
-
+            Console.WriteLine("Cookies are good!");
         }
 
         public GitExample(string exampleProp)
