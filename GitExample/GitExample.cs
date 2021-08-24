@@ -10,7 +10,7 @@ namespace GitExample
     {
         public GitExample()
         {
-
+            throw new NotImplementedException();
         }
 
         public GitExample(string exampleProp)
