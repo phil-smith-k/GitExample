@@ -11,6 +11,7 @@ namespace GitExample
         public GitExample()
         {
             throw new NotImplementedException();
+            Console.WriteLine("Cookies are good!");
         }
 
         public GitExample(string exampleProp)
